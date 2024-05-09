@@ -1,0 +1,4 @@
+[GANGLNW Update]
+
+Mods:
+- Added [Celestisynth](https://www.curseforge.com/minecraft/mc-mods/celestisynth)
