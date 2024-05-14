@@ -1,0 +1,19 @@
+[GANGLNW Update]
+
+Mods:
+- Added [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology)
+- Added [Excavated Variants](https://www.curseforge.com/minecraft/mc-mods/excavated-variants)
+- Added [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks)
+- Added [Valhelsia Structures](https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures)
+- Added [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge)
+- Added [Regions Unexplored](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored)
+- Added [Neko's Enchanted Books](https://www.curseforge.com/minecraft/mc-mods/nekos-enchanted-books/comments)
+- Added [Mo' Enchantments](https://www.curseforge.com/minecraft/mc-mods/mo-enchantments)
+- Added [Born in Chaos](https://www.curseforge.com/minecraft/mc-mods/born-in-chaos)
+- Added [Majrusz's Progressive Difficulty](https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty)
+- Added [Monster Plus](https://www.curseforge.com/minecraft/mc-mods/monster-plus)
+- Added [PlayerRevive](https://www.curseforge.com/minecraft/mc-mods/playerrevive)
+- Added [Simple Storage Network](https://www.curseforge.com/minecraft/mc-mods/simple-storage-network)
+
+Mods Server :
+- Added [Waystones Teleport Pets](https://www.curseforge.com/minecraft/mc-mods/waystones-teleport-pets)
