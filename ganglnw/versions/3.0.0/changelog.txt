@@ -1,0 +1,7 @@
+[GANGLNW Update]
+
+Mods:
+- Added [Better Archeology](https://www.curseforge.com/minecraft/mc-mods/better-archeology)
+
+Mods Server :
+- Added [Neruina - Ticking Entity Fixer](https://modrinth.com/mod/neruina)
